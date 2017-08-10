@@ -1,2 +1,3 @@
 # AWS-Images
 AWS Virtual Images
+2017/08/10 - AWSHPWAP001-IMG
